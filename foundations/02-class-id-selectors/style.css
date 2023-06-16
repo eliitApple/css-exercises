@@ -1,0 +1,21 @@
+.para {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+#second-div {
+    color: #0000ff;
+    font-size: 36px;
+
+}
+
+.para.third-para {
+    font-size: 24px;
+}
+
+#fourt-div {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+}
